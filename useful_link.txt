@@ -1,1 +1,0 @@
-http://examples.javacodegeeks.com/desktop-java/imageio/compress-a-jpeg-file/
